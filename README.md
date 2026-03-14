@@ -12,3 +12,14 @@ The dashboard is designed to help stakeholders monitor and analyze various aspec
 - Are there specific times of day that show peak call activity
 - Which city (Cincinnati, Cleveland, or Columbus) has the highest total call volume or total amount
 - Which representative (R01, R02, etc.) has the top rating
+
+- Dashboard Interaction <a href="https://github.com/Vaishnavij2024/Data-analysis---Dashboard/blob/main/Screenshot%202026-03-14%20170131.png">View Dashboard</a>
+
+## Process
+- Prepare data: The initial step involves collecting, cleaning, and organizing the raw data into a structured format suitable for analysis.
+- The organized data is often used to create PivotTables (in Excel) which summarize the data and form the basis for the visuals.
+- Various charts, graphs, and tables are created from the summarized data to visualize key performance indicators (KPIs), such as the "Monthly Calls," "Week Day Calls," and "Female vs Male callers" charts seen in the image.
+- Features like slicers and timelines are added to allow users to filter the data interactively, making the dashboard dynamic and user-friendly.
+- The final step involves arranging all the visuals in a logical, clean, and appealing layout, ensuring all relevant information is easily digestible.
+
+## Dashboard
