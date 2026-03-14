@@ -23,3 +23,4 @@ The dashboard is designed to help stakeholders monitor and analyze various aspec
 - The final step involves arranging all the visuals in a logical, clean, and appealing layout, ensuring all relevant information is easily digestible.
 
 ## Dashboard
+
