@@ -22,5 +22,6 @@ The dashboard is designed to help stakeholders monitor and analyze various aspec
 - Features like slicers and timelines are added to allow users to filter the data interactively, making the dashboard dynamic and user-friendly.
 - The final step involves arranging all the visuals in a logical, clean, and appealing layout, ensuring all relevant information is easily digestible.
 
-## Dashboard
+
+
 
