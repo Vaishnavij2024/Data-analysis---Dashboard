@@ -1,2 +1,3 @@
-# Data-analysis---Dashboard
-I have developed a comprehensive project in Excel, creating mutiple dashboards and tables to analyze the data. This process involved several stages, including data cleaning and data visualization.
+# Call-Centre-Data-Analysis (Interactive Dashboard creation using MS Excel)
+## Project Objective
+The dashboard is designed to help stakeholders monitor and analyze various aspects of call center activities, identify trends, and make data-driven decisions to enhance efficiency and customer satisfaction in the 2023. 
